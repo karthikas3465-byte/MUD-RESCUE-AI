@@ -1,0 +1,37 @@
+image,detection_count,boxes_confidence_xyxy
+1.jpg,0,
+10.jpg,0,
+11.jpg,2,"0.322:854,76,921,176; 0.271:857,67,939,175"
+12.jpg,0,
+13.jpg,1,"0.743:294,114,363,187"
+14.jpg,1,"0.536:189,97,447,291"
+15.jpg,1,"0.422:84,25,283,181"
+2.jpg,0,
+3.jpg,0,
+4.jpg,1,"0.406:219,359,1026,1417"
+5.jpg,0,
+6.jpg,0,
+7.jpg,0,
+8.jpg,0,
+Lucid_Origin_A_dronecaptured_highresolution_image_taken_from_3_0.jpg,0,
+Lucid_Origin_A_dronecaptured_highresolution_image_taken_from_3_1.jpg,0,
+Lucid_Origin_A_dronecaptured_highresolution_image_taken_from_3_3.jpg,3,"0.700:718,763,916,957; 0.558:620,918,808,1107; 0.310:422,331,653,403"
+Lucid_Origin_An_ultrarealistic_drone_image_showing_a_large_mud_0.jpg,0,
+Lucid_Origin_An_ultrarealistic_drone_image_showing_a_large_mud_1.jpg,0,
+Lucid_Origin_An_ultrarealistic_drone_image_showing_a_large_mud_2.jpg,3,"0.674:885,243,1027,481; 0.448:120,0,213,131; 0.361:899,472,1056,714"
+Lucid_Origin_An_ultrarealistic_drone_image_showing_a_large_mud_3.jpg,0,
+Lucid_Origin_Captured_from_a_drone_at_about_30_meters_above_gr_0.jpg,2,"0.337:988,431,1169,705; 0.297:307,750,521,1090"
+Lucid_Origin_Captured_from_a_drone_at_about_30_meters_above_gr_3.jpg,0,
+Lucid_Origin_Drone_image_taken_from_a_diagonal_angle_at_30_met_0.jpg,1,"0.816:698,933,1027,1277"
+Lucid_Origin_Drone_image_taken_from_a_diagonal_angle_at_30_met_1.jpg,0,
+Lucid_Origin_Drone_image_taken_from_a_diagonal_angle_at_30_met_2.jpg,0,
+Lucid_Origin_Drone_image_taken_from_a_diagonal_angle_at_30_met_3.jpg,0,
+Lucid_Origin_Drone_photo_taken_from_30_meters_above_a_collapse_0.jpg,0,
+Lucid_Origin_Drone_photo_taken_from_30_meters_above_a_collapse_1.jpg,0,
+Lucid_Origin_Drone_photo_taken_from_30_meters_above_a_collapse_2.jpg,0,
+Lucid_Origin_Drone_photo_taken_from_30_meters_above_a_collapse_3.jpg,0,
+Lucid_Origin_Drone_surveillance_photo_from_approximately_30_me_0.jpg,0,
+Lucid_Origin_Drone_surveillance_photo_from_approximately_30_me_1.jpg,4,"0.487:438,873,603,1175; 0.475:454,583,580,776; 0.423:1014,789,1184,1048; 0.272:799,769,1046,1122"
+Lucid_Origin_Drone_surveillance_photo_from_approximately_30_me_2.jpg,0,
+Lucid_Origin_Drone_surveillance_photo_from_approximately_30_me_3.jpg,0,
+Lucid_Origin_From_35m_altitude_a_drone_photo_shows_a_slope_whe_0.jpg,0,
